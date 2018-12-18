@@ -1,8 +1,8 @@
 ## QUEM SOU EU?
-
-Raíssa Martins,18 anos
-
+Raíssa Martins de Andrade,18 anos
 Estudante de Programação de Jogos Digitais
+Email:raissamartins2018@gamil.com
+Instagram:raissa_martins02
 
 #GAMES
 
