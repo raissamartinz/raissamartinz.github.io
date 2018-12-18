@@ -1,4 +1,4 @@
-### QUEM SOU EU?
+# QUEM SOU EU?
 Raíssa Martins de Andrade,18 anos
 
 Estudante de Programação de Jogos Digitais
@@ -10,9 +10,9 @@ Instagram:raissa_martins02
 #Games
 #Artes
 
-### Markdown
+## Contatos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
