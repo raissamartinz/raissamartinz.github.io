@@ -1,8 +1,8 @@
 ## QUEM SOU EU?
 
-Raíssa Martins,18
+Raíssa Martins,18 anos
 
-Programadora de Jogos Digitais
+Estudante de Programação de Jogos Digitais
 
 
 ### Markdown
