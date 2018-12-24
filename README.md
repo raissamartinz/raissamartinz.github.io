@@ -32,12 +32,6 @@
 
 ![D](FlambaBoy.png)
 
-**Monstros de Gelo**
-
-![E](IceMonster2.png)
-
-![F](IceMonster3.png)
-
 **Ayodele**
 
 ![G](MENINA.png)
