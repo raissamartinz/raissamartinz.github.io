@@ -1,5 +1,5 @@
 # QUEM SOU EU?
-![eu baby](31718490_1051119801702014_8883386686310973440_n.jpg)
+![eu](31718490_1051119801702014_8883386686310973440_n.jpg)
 - Me chamo Raíssa Martins de Andrade
 - Tenho 18 anos
 - Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,Campus Ceará-Mirim
@@ -7,7 +7,11 @@
 - Moro em Natal-RN
 ## GAMES
 
-**Nome do Jogo**
+**Astral Plane**
+**The Sweet Escape**
+**Flamba**
+****
+
 
 ## ARTES
 
