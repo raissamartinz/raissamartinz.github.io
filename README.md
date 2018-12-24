@@ -17,25 +17,33 @@
 
 ## ARTES
 **Astronalta**
+
 ![A](Astronalta2.png)
 
 **Background da Nave Espacial**
+
 ![B](Background Nave1.png)
 
 **Background do Mundo Doce**
+
 ![C](Background.png)
 
 **Personagem Flamba**
+
 ![D](FlambaBoy.png)
 
 **Monstros de Gelo**
+
 ![E](IceMonster2.png)
+
 ![F](IceMonster3.png)
 
 **Ayodele**
+
 ![G](MENINA.png)
 
 **Malfeitor**
+
 ![H](Mal feitor.png)
 
 [Link](url) and ![Image](src)
