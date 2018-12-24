@@ -1,5 +1,5 @@
 # QUEM SOU EU?
-![eu](WhatsApp Image 2018-03-30 at 20.04.33.jpeg)
+![eu baby](WhatsApp Image 2018-03-30 at 20.04.33.jpeg)
 - Me chamo Raíssa Martins de Andrade
 - Tenho 18 anos
 - Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,Campus Ceará-Mirim
