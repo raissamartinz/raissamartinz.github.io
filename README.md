@@ -21,21 +21,26 @@
 
 ![A](Astronalta2.png)
 
+
 **Background da Nave Espacial**
 
 ![B](Background Nave1.png)
+
 
 **Background do Mundo Doce**
 
 ![C](Background.png)
 
+
 **Personagem Flamba**
 
 ![D](FlambaBoy.png)
 
+
 **Ayodele**
 
 ![G](MENINA.png)
+
 
 **Malfeitor**
 
