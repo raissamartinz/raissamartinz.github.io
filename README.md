@@ -17,7 +17,7 @@
 
 
 ## ARTES
-**Astronalta**
+**Astronauta**
 
 ![A](Astronalta2.png)
 
@@ -34,15 +34,15 @@
 
 **Personagem Flamba**
 
-![D](FlambaBoy.png)
+![D](Flamba1.png)
 
 
-**Ayodele**
+**Personagem Ayodele**
 
 ![G](MENINA.png)
 
 
-**Malfeitor**
+**Personagem Capitão do Mato**
 
 ![H](Malfeitor.png)
 
