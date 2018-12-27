@@ -34,7 +34,7 @@
 
 **Personagem Flamba**
 
-![D](Flamba1.png)
+![D](Flamba2.png)
 
 
 **Personagem Ayodele**
