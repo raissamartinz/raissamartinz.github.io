@@ -30,7 +30,7 @@
 
 <a href="http://raixasantos.github.io/Celeste/" target="_blank"> Link do Jogo </a>
 
-![CelesteStar](Capturar3.PNG)
+![CelesteStar](Capturar4.PNG)
 
 ## ARTES
 **Astronauta**
