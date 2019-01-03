@@ -10,25 +10,25 @@
 
 **Astral Plane**
 
-<a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Astral Plane </a>
+<a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Link do Jogo </a>
 
 ![AstralPlane](Capturar1.PNG)
 
 **The Sweet Escape**
 
-<a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> DOCEFUGA </a>
+<a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> Link do Jogo </a>
 
 ![DoceFuga](Capturar2.PNG)
 
 **Flamba**
 
-<a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a>
+<a href="http://raixasantos.github.io/Flamba/" target="_blank"> Link do Jogo </a>
 
 ![Flamba](Capturar3.PNG)
 
 **Celeste**
 
-<a href="http://raixasantos.github.io/Celeste/" target="_blank"> Celeste </a>
+<a href="http://raixasantos.github.io/Celeste/" target="_blank"> Link do Jogo </a>
 
 
 ## ARTES
