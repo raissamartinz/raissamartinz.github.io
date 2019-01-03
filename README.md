@@ -60,5 +60,5 @@
 
 
 ## CONTATOS
-- Email:raissamartins2018@gamil.com
+- Email:raissamartins2018@gmail.com
 - Instagram:raissa_martins02
