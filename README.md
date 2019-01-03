@@ -47,11 +47,6 @@
 ![C](Background.png)
 
 
-**Personagem Flamba**
-
-![D](Flamba4.png)
-
-
 **Personagem Ayodele**
 
 ![G](MENINA.png)
