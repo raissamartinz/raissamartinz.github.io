@@ -26,7 +26,7 @@
 
 ![Flamba](Capturar3.PNG)
 
-**Celeste**
+**Celeste Star**
 
 <a href="http://raixasantos.github.io/Celeste/" target="_blank"> Link do Jogo </a>
 
